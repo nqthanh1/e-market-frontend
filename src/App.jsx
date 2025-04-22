@@ -8,7 +8,6 @@ import ProductItem from './components/ProductItem';
 import { useAuth } from "react-oidc-context";
 
 
-
 function App() {
     //auth
     const auth = useAuth();
